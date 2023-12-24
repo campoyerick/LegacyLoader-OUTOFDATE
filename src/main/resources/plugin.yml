@@ -1,0 +1,3 @@
+name: LegacyLoader
+version: '${project.version}'
+main: legacystore.store.legacyloader.Main
